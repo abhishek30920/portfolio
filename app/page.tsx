@@ -2,7 +2,7 @@
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { useRef } from 'react';
 import Navbar from '@/app/components/Navbar'
-import SkillIcon from '@/app/components/SkillIcon';
+import SkillIcon from '@/app/components/Skillicon';
 import ProjectCard from '@/app/components/ProjectCard';
 import Background from '@/app/components/Background';
 import SocialLinks from '@/app/components/Sociallinks';

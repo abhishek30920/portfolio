@@ -1,4 +1,4 @@
-export default function SkillIcon({ icon, name, color }) {
+export default function Skillicon({ icon, name, color }) {
   return (
     <div className="bg-[#1a1a1a] rounded-xl p-4 transform hover:-translate-y-2 transition-transform">
       <i 
