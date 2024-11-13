@@ -1,4 +1,4 @@
-import { motion, useScroll, useTransform } from 'framer-motion';
+import { motion } from 'framer-motion';
 export default function ExperienceCard({ role, company, period, description, technologies }) {
   return (
     <motion.div

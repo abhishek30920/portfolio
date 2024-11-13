@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-
+import Image from 'next/image'
 export default function ProjectCard({ title, description, image }) {
   return (
     <motion.div 
@@ -8,7 +8,7 @@ export default function ProjectCard({ title, description, image }) {
       transition={{ duration: 0.5 }}
       className="bg-[#1a1a1a] rounded-xl overflow-hidden"
     >
-      <img 
+      <Image 
         src={image} 
         alt={title} 
         className="w-full h-48 object-cover"

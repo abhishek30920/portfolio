@@ -114,13 +114,13 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-4 text-[#8892b0]">
               <p>
-                Hello! I'm John, a passionate full-stack developer based in New York City. 
+                Hello! I Am Abhishek, a passionate full-stack developer based in New York City. 
                 I enjoy creating things that live on the internet, whether that be websites, 
                 applications, or anything in between.
               </p>
               <p>
                 My journey in web development started back in 2015 when I decided to try 
-                customizing a Wordpress theme. Fast-forward to today, and I've had the 
+                customizing a Wordpress theme. Fast-forward to today, and I have had the 
                 privilege of working at various companies, startups, and organizations.
               </p>
               <p>

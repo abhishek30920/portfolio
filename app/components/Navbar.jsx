@@ -28,7 +28,7 @@ export default function Navbar() {
             className="text-2xl font-bold text-[#64ffda] cursor-pointer"
             onClick={() => handleNavClick('home')}
           >
-            DEVXOPS
+            DEVXDEVOPS
           </motion.div>
 
 
